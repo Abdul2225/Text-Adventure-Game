@@ -4,7 +4,7 @@
 ---------------------------------------------
 Python
 
-**Project Requirements**
+**Game Requirements**
 * Descriptions are printed to the console for the player to see.
 * The time.sleep function is used to create delays between messages so that they aren't all printed at once.
 * The random.choice or random.randint function is used to influence the game so that each game is different in some way.
